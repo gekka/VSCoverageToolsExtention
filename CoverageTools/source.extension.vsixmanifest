@@ -5,7 +5,6 @@
         <DisplayName>CoverageTools</DisplayName>
         <Description xml:space="preserve">Coverage Tools</Description>
         <Icon>64.png</Icon>
-        <PreviewImage>VSMenuImage.png</PreviewImage>
         <Tags>Test,Coverage,Tool,Enterprise</Tags>
     </Metadata>
     <Installation>
